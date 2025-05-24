@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="text-gray-400">
                 <a href="tel:+971544709745" className="hover:text-white transition-colors">
-                  +971 544709745
+                  +971 544=709745
                 </a>
               </li>
               <li className="text-gray-400">Dubai, UAE</li>
