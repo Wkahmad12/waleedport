@@ -21,7 +21,7 @@ const Projects: React.FC = () => {
       id: 1,
       title: "Marvel Movies Explorer App",
       description: "A mobile application built with Android Studio and Kotlin for exploring Marvel movies and comics, featuring a modern UI and seamless user experience.",
-      image: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fbing.com%2Fth%3Fid%3DOIP.bQqvYFDo8kPFgU-y5nxihgHaLY%26cb%3Dthvnextc2%26pid%3DApi&sp=1748095544T52d41da27b3eab2e02d152aa7350ee37a57fa9503fed2d54e3e84707c4a1403d",
+      image: "https://th.bing.com/th/id/OIP.LM6UsZ8chpv8A06YegHmIgHaE0?rs=1&pid=ImgDetMain",
       tags: ["Kotlin", "Android Studio", "Marvel API", "Material Design"],
       demoLink: "https://youtu.be/XgF720iNySE?si=srI1Vuc-tUQ06j92",
       codeLink: "https://github.com/Wkahmad12/comicsapp",
