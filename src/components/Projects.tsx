@@ -76,7 +76,26 @@ const Projects: React.FC = () => {
       codeLink: "https://github.com/Wkahmad12/wkahmad12.github.io",
       category: "web"
     },
-  ];
+     { id: 7,
+    title: "Neuromorphic Computing Research",
+    description: "A research project exploring hybrid architectures that combine neuromorphic hardware with deep learning, enabling efficient next-gen AI systems.",
+    image: "https://images.unsplash.com/photo-1555949963-aa79dcee981d?auto=format&fit=crop&w=800&q=80",
+    tags: ["Neuromorphic Computing", "Deep Learning", "Research", "AI Hardware"],
+    
+   
+  },
+  {
+    id: 8,
+    title: "MovieHub Website",
+    description: "A sleek web platform built with React and TMDB API that allows users to browse, search, and view details of popular movies and TV shows.",
+    image: "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?auto=format&fit=crop&w=800&q=80",
+    tags: ["React", "TMDB API", "Tailwind", "Responsive Design"],
+    youtubeLink: "https://youtu.be/kJLhaxd6NaA?si=MkUJXSSYbicCW-nJ",
+    codeLink: "https://github.com/Wkahmad12/movie-usman-final",
+    category: "web"
+  }
+];
+  
 
   const filteredProjects = filter === 'all' 
     ? projects 
