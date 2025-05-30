@@ -82,7 +82,7 @@ const Projects: React.FC = () => {
     image: "https://images.unsplash.com/photo-1555949963-aa79dcee981d?auto=format&fit=crop&w=800&q=80",
     tags: ["Neuromorphic Computing", "Deep Learning", "Research", "AI Hardware"],
     
-   
+    category: "web"
   },
   {
     id: 8,
