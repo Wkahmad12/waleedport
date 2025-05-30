@@ -79,7 +79,7 @@ const Projects: React.FC = () => {
      { id: 7,
     title: "Neuromorphic Computing Research",
     description: "A research project exploring hybrid architectures that combine neuromorphic hardware with deep learning, enabling efficient next-gen AI systems.",
-    image: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt66983808af36a8ef%2Fblt1c514ddcecfd7c30%2F644976075f7df6440c111d65%2Fneuromorphic-_carlos_larrechi-alamy.jpg%3Fquality%3D80%26format%3Djpg%26width%3D690&sp=1748608243T06341a9b7029f82da8c1245d52b7f91f53b73088de80208d304fbf19c28d33d5",
+    image: "https://th.bing.com/th/id/OIP.aN6RB2gthrTLEn4P4DgK3wHaEO?rs=1&pid=ImgDetMain",
     tags: ["Neuromorphic Computing", "Deep Learning", "Research", "AI Hardware"],
     
     category: "web"
